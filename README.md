@@ -1,16 +1,12 @@
 # 16-BIT-TPU-Tensor-Processing-Unit-
-16-bit TPU implementation using Verilog with a systolic array and tiling matmult of processing elements for efficient matrix multiplication acceleration.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Verilog](https://img.shields.io/badge/Verilog-EDA-brightgreen)](https://en.wikipedia.org/wiki/Verilog)
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/MuhammadBilalCS/16-BIT-TPU-Tensor-Processing-Unit-/blob/main/images/TPU_.png?raw=true" 
        alt="TPU Architecture" 
-       width="600" 
-       height="400">
-  <br>
-  <em>16-Bit TPU Architecture</em>
-</div>
+       width="100%">
+</p>
 
 Overview
 
