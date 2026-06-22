@@ -1,13 +1,14 @@
-                              # 16-BIT-TPU-Tensor-Processing-Unit-
-              [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-              [![Verilog](https://img.shields.io/badge/Verilog-EDA-brightgreen)](https://en.wikipedia.org/wiki/Verilog)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Verilog](https://img.shields.io/badge/Verilog-EDA-brightgreen)](https://en.wikipedia.org/wiki/Verilog)
 
-<p align="center">
+<figure>
   <img src="https://github.com/MuhammadBilalCS/16-BIT-TPU-Tensor-Processing-Unit-/blob/main/images/TPU_.png?raw=true" 
        alt="TPU Architecture" 
-       width="100%">
-</p>
-
+       width="700">
+  <figcaption align="center">
+    <strong>Figure 1:</strong> 16-Bit Tensor Processing Unit Architecture
+  </figcaption>
+</figure>
 Overview
 
 This project implements a 16-bit Tensor Processing Unit (TPU) from scratch in Verilog. It's designed as an educational tool to understand how systolic arrays accelerate deep learning inference. The architecture is inspired by Google's TPUv1 but simplified to keep it beginner-friendly.
